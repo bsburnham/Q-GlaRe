@@ -23,11 +23,10 @@ For input requirements and outputs of tools, refer to the tool descriptions in Q
 
 #### Plugin Test (in QGIS)
 
-To verify the plugin loads correctly:
+To verify the plugin imported correctly:
 
 1. Open QGIS.
 2. Go to `Plugins` > `Python Console`.
-3. Run the following script:
-
-```python
-exec(open('plugin_test.py').read())
+3. Open an `External Editor` session 
+4. Open/import the `qglare_install_test.py` script.
+5. Execute to check if plugin was succcessfully installed into QGIS session.
