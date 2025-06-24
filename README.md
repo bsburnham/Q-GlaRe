@@ -1,7 +1,22 @@
 # Q-GlaRe
 
-## Installation
-1. Install plugin in QGIS: Download zip file `qglare_plug.zip`
-2. Navigate to `Plugins` > `Manage & Install Plugins`
-3. Choose `Install from ZIP` and choose downloaded ZIP file
-4. Click `Install Plugin`
+## Basic Usage
+
+### Setup
+
+1. Create and save a QGIS project in a dedicated folder.
+2. Ensure all input layers (raster and vector) use the same CRS.
+
+### Installation
+
+1. Download the plugin ZIP.
+2. In QGIS:  
+   `Plugins` → `Manage and Install Plugins` → `Install from ZIP`.
+3. Select the downloaded ZIP and install.
+
+### Running Tools
+
+- Tools appear in the **Processing Toolbox** under `Q-GlaRe+` and `Q-ELA`.
+- Alternatively, scripts can be imported individually into the Toolbox.
+
+For input requirements and outputs of tools, refer to the descriptions in QGIS
