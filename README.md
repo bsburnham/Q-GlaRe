@@ -14,9 +14,20 @@
    `Plugins` → `Manage and Install Plugins` → `Install from ZIP`.
 3. Select the downloaded ZIP and install.
 
-### Running Tools
+### Executing Tools
 
-- Tools appear in the **Processing Toolbox** under `Q-GlaRe+` and `Q-ELA`.
+- Tools appear in the **Processing Toolbox** under `Q-GlaRe+`.
 - Alternatively, scripts can be imported individually into the Toolbox.
 
-For input requirements and outputs of tools, refer to the descriptions in QGIS
+For input requirements and outputs of tools, refer to the tool descriptions in QGIS.
+
+#### Plugin Test (in QGIS)
+
+To verify the plugin loads correctly:
+
+1. Open QGIS.
+2. Go to `Plugins` > `Python Console`.
+3. Run the following script:
+
+```python
+exec(open('plugin_test.py').read())
