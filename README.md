@@ -1,4 +1,4 @@
-# Q-GlaRe
+# Q-GlaRe+
 
 ## Basic Usage
 
