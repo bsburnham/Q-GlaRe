@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/1007573102.svg)](https://doi.org/10.5281/zenodo.15828546)
 
+## About Q-GlaRe+
+Q-GlaRe+ is an open-source QGIS plugin for flowline-based palaeoglacier reconstruction and equilibrium-line altitude (ELA) estimation using geomorphological and topographic data. Q-GlaRe+ is built on tools such as GlaRe (Pellitero et al., 2015, 2016) and PalaeoIce (Li, 2023), which provide open-source code, but require proprietary GIS software licences which may create prohibitive barriers for researchers and institutions. Q-GlaRe+ implements similar algorithms within QGIS, ensuring that software licensing requirements do not determine access to glacier reconstruction capabilities. Validation demonstrates that Q-GlaRe+ maintains scientific accuracy whilst removing these platform dependencies.
 
 ## Basic Usage
 
@@ -33,3 +35,6 @@ To verify the plugin imported correctly:
 3. Open an `External Editor` session 
 4. Open/import the `qglare_install_test.py` script.
 5. Execute to check if plugin was succcessfully installed into QGIS session.
+
+## Citing Q-GlaRe+
+This software is currently under peer review for publication; the archived release is available via Zenodo (DOI listed above).
