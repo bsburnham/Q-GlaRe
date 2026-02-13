@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software in your work, please cite it as below."
+authors:
+  - family-names: Burnham
+    given-names: Brian S.
+    orcid: "https://orcid.org/0000-0003-0472-0016"
+  - family-names: Spagnolo
+    given-names: Matteo
+    orcid: "https://orcid.org/0000-0002-2753-338X"
+  - family-names: Pellitero
+    given-names: Ramon
+    orcid: "https://orcid.org/0000-0002-0283-379X"
+  - family-names: Li
+    given-names: Yingkui
+    orcid: "https://orcid.org/0000-0002-3722-8960"
+  - family-names: Barr
+    given-names: Iestyn
+    orcid: "https://orcid.org/0000-0002-9066-8738"
+  - family-names: Rea
+    given-names: Brice R.
+    orcid: "https://orcid.org/0000-0002-9928-145X"
+  - family-names: Kaselouris
+    given-names: Alexis
+
+title: "Q-GlaRe+: An open-source framework for palaeoglacier reconstruction and equilibrium-line altitude calculation"
+version: 0.1.1
+doi: 10.5281/zenodo.18631046
+date-released: 2026-03-13
+url: "https://doi.org/10.5281/zenodo.18631046"
