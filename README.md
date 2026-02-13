@@ -1,5 +1,8 @@
 # Q-GlaRe+
 
+[![DOI](https://zenodo.org/badge/1007573102.svg)](https://doi.org/10.5281/zenodo.15828546)
+
+
 ## Basic Usage
 
 ### Setup
