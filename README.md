@@ -38,3 +38,6 @@ To verify the plugin imported correctly:
 
 ## Citing Q-GlaRe+
 This software is currently under peer review for publication; the archived release is available via Zenodo (DOI listed above).
+
+- `Harvard`: Burnham, B.S. (2026) ‘Q-GlaRe+: An open-source framework for palaeoglacier reconstruction and equilibrium-line altitude calculation’. Zenodo. doi:10.5281/zenodo.18631046.
+- `APA`: Burnham, B. S., Spagnolo, M., Pellitero, R., Li, Y., Barr, I., Rea, B. R., & Kaselouris, A. (2026). Q-GlaRe+: An open-source framework for palaeoglacier reconstruction and equilibrium-line altitude calculation (0.1.1). Zenodo. https://doi.org/10.5281/zenodo.18631046
