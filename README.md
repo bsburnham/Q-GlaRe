@@ -101,8 +101,7 @@ To verify the plugin imported correctly:
 5. Execute to check if plugin was succcessfully installed into QGIS session.
 
 ## Citing Q-GlaRe+
-This software is published  under peer review for publication; the archived release is available via Zenodo (DOI listed above).
+This software is published in Earth Surface Processes and Landforms. 
 
-- `Harvard`: Burnham, B.S. (2026) ‘Q-GlaRe+: An open-source framework for palaeoglacier reconstruction and equilibrium-line altitude calculation’. Zenodo. doi:10.5281/zenodo.18631046.
-- `APA`: Burnham, B. S., Spagnolo, M., Pellitero, R., Li, Y., Barr, I., Rea, B. R., & Kaselouris, A. (2026). Q-GlaRe+: An open-source framework for palaeoglacier reconstruction and equilibrium-line altitude calculation (1.0.2). Zenodo. https://doi.org/10.1002/esp.70406
+Burnham, B. S., M. Spagnolo, R. Pellitero, et al. 2026. “ Q-GlaRe+: An Open-Source Framework for Palaeoglacier Reconstruction and Equilibrium-Line Altitude Calculation.” Earth Surface Processes and Landforms 51, no. 9: e70406. https://doi.org/10.1002/esp.70406.
 
